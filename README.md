@@ -24,3 +24,22 @@ React actualiza automáticamente la pantalla usando su sistema de renderizado ba
 
 ## ¿Qué hace el useState?
 useState es un hook de React que permite a los componentes funcionales tener estado interno. Devuelve un array con dos elementos: el valor actual del estado y una función para actualizarlo.
+
+##  ¿Pudiste correr npm start?
+fueron algo diferente a lo conocido pero me pude defender
+
+## 	¿Modificaste el App.js?
+si, la modifique para los tres puntos que tenían que ver con la practica
+
+## 	¿Creaste tu primer componente?
+Si, aunque no haya funcionado pero si 
+
+## 	¿Implementaste props? - Investiga que son los props
+Si los propuse,aunque fueran difíciles pude resiliarme
+Las props son la colección de datos que un componente recibe del contenedor padre, y que pueden usarse para definir los elementos de React que retornará el componente.
+
+## ¿Hiciste el mini-proyecto del contador? - No te preocupes, solo era intentarlo.
+la cague la verdad, osea no me funciono bebe
+
+## 	¿Investigaste los 5 puntos clave?
+Zi
